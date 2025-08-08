@@ -1,0 +1,23 @@
+{
+  "name": "test-synpress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@synthetixio/synpress": "^4.1.0",
+    "@types/node": "^24.2.0",
+    "typescript": "^5.9.2"
+  },
+  "type": "module",
+  "overrides": {
+    "playwright-core": "1.54.2"
+  },
+  "dependencies": {
+    "playwright": "^1.54.2"
+  }
+}
